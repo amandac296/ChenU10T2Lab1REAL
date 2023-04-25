@@ -63,7 +63,7 @@ public class BinarySearch {
                 return midPosition;
             }
         }
-        // value not found, s o -1
+        // value not found, so -1
         return -1;
     }
 }
